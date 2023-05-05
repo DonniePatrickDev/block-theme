@@ -1,0 +1,1235 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Organic Blocks Bundle\n"
+"POT-Creation-Date: 2020-07-11 23:38-0400\n"
+"PO-Revision-Date: 2020-07-11 23:38-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: organic-blocks-bundle.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/obb-license-page.php:15
+msgid "Plugin License Options"
+msgstr ""
+
+#: admin/obb-license-page.php:24
+msgid "License Key"
+msgstr ""
+
+#: admin/obb-license-page.php:28
+msgid "Enter your license key"
+msgstr ""
+
+#: admin/obb-license-page.php:34 admin/obb-license-page.php:45
+msgid "Activate License"
+msgstr ""
+
+#: admin/obb-license-page.php:39
+msgid "Deactivate License"
+msgstr ""
+
+#: admin/obb-license-page.php:40
+msgid "Active"
+msgstr ""
+
+#: blocks/footer-block.js:21 blocks/header-block.js:22
+#: blocks/header-block.js:36 blocks/page-block.js:23
+#: blocks/portfolio-block.js:22 blocks/post-block.js:22
+#: blocks/profile-block.js:22 blocks/slideshow-block.js:21
+#: blocks/testimonial-block.js:21
+msgid "White"
+msgstr ""
+
+#: blocks/footer-block.js:22 blocks/header-block.js:23
+#: blocks/header-block.js:37 blocks/page-block.js:24
+#: blocks/portfolio-block.js:23 blocks/post-block.js:23
+#: blocks/profile-block.js:23 blocks/slideshow-block.js:22
+#: blocks/testimonial-block.js:22
+msgid "Black"
+msgstr ""
+
+#: blocks/footer-block.js:23 blocks/header-block.js:24
+#: blocks/header-block.js:38 blocks/page-block.js:25
+#: blocks/portfolio-block.js:24 blocks/post-block.js:24
+#: blocks/profile-block.js:24 blocks/slideshow-block.js:23
+#: blocks/testimonial-block.js:23
+msgid "Light Gray"
+msgstr ""
+
+#: blocks/footer-block.js:24 blocks/header-block.js:25
+#: blocks/header-block.js:39 blocks/page-block.js:26
+#: blocks/portfolio-block.js:25 blocks/post-block.js:25
+#: blocks/profile-block.js:25 blocks/slideshow-block.js:24
+#: blocks/testimonial-block.js:24
+msgid "Medium Gray"
+msgstr ""
+
+#: blocks/footer-block.js:25 blocks/header-block.js:26 blocks/page-block.js:27
+#: blocks/portfolio-block.js:26 blocks/post-block.js:26
+#: blocks/profile-block.js:26 blocks/slideshow-block.js:25
+#: blocks/testimonial-block.js:25
+msgid "Brown"
+msgstr ""
+
+#: blocks/footer-block.js:26 blocks/header-block.js:27 blocks/page-block.js:28
+#: blocks/portfolio-block.js:27 blocks/post-block.js:27
+#: blocks/profile-block.js:27 blocks/slideshow-block.js:26
+#: blocks/testimonial-block.js:26
+msgid "Red"
+msgstr ""
+
+#: blocks/footer-block.js:27 blocks/header-block.js:28 blocks/page-block.js:29
+#: blocks/portfolio-block.js:28 blocks/post-block.js:28
+#: blocks/profile-block.js:28 blocks/slideshow-block.js:27
+#: blocks/testimonial-block.js:27
+msgid "Blue"
+msgstr ""
+
+#: blocks/footer-block.js:28 blocks/header-block.js:29 blocks/page-block.js:30
+#: blocks/portfolio-block.js:29 blocks/post-block.js:29
+#: blocks/profile-block.js:29 blocks/slideshow-block.js:28
+#: blocks/testimonial-block.js:28
+msgid "Green"
+msgstr ""
+
+#: blocks/footer-block.js:29 blocks/header-block.js:30 blocks/page-block.js:31
+#: blocks/portfolio-block.js:30 blocks/post-block.js:30
+#: blocks/profile-block.js:30 blocks/slideshow-block.js:29
+#: blocks/testimonial-block.js:29
+msgid "Pink"
+msgstr ""
+
+#: blocks/footer-block.js:30 blocks/header-block.js:31 blocks/page-block.js:32
+#: blocks/portfolio-block.js:31 blocks/post-block.js:31
+#: blocks/profile-block.js:31 blocks/slideshow-block.js:30
+#: blocks/testimonial-block.js:30
+msgid "Teal"
+msgstr ""
+
+#: blocks/footer-block.js:31 blocks/header-block.js:32 blocks/page-block.js:33
+#: blocks/portfolio-block.js:32 blocks/post-block.js:32
+#: blocks/profile-block.js:32 blocks/slideshow-block.js:31
+#: blocks/testimonial-block.js:31
+msgid "Gold"
+msgstr ""
+
+#: blocks/footer-block.js:32 blocks/header-block.js:33 blocks/page-block.js:34
+#: blocks/portfolio-block.js:33 blocks/post-block.js:33
+#: blocks/profile-block.js:33 blocks/slideshow-block.js:32
+#: blocks/testimonial-block.js:32
+msgid "Purple"
+msgstr ""
+
+#: blocks/footer-block.js:39 blocks/header-block.js:57
+msgid "None"
+msgstr ""
+
+#: blocks/footer-block.js:106
+msgid "Display a custom site footer"
+msgstr ""
+
+#: blocks/footer-block.js:133 blocks/footer-block.js:360
+#: classes/class-obb-footer.php:36 classes/class-obb-footer.php:111
+msgid "Copyright © 2020 · All Rights Reserved"
+msgstr ""
+
+#: blocks/footer-block.js:245 blocks/header-block.js:354
+msgid "Edit or Create Menus"
+msgstr ""
+
+#: blocks/footer-block.js:272
+msgid "Remove Icon"
+msgstr ""
+
+#: blocks/footer-block.js:276
+msgid "Change Icon"
+msgstr ""
+
+#: blocks/footer-block.js:279
+msgid "Add Icon"
+msgstr ""
+
+#: blocks/footer-block.js:341 blocks/page-block.js:422 blocks/post-block.js:436
+#: blocks/profile-block.js:324 blocks/slideshow-block.js:494
+#: blocks/testimonial-block.js:463
+msgid "Settings"
+msgstr ""
+
+#: blocks/footer-block.js:352
+msgid "Footer Icon Size"
+msgstr ""
+
+#: blocks/footer-block.js:359
+msgid "Copyright Text"
+msgstr ""
+
+#: blocks/footer-block.js:367
+msgid "Footer Menu"
+msgstr ""
+
+#: blocks/footer-block.js:374
+msgid "Footer Menu Font"
+msgstr ""
+
+#: blocks/footer-block.js:380
+msgid "Return To Top Link"
+msgstr ""
+
+#: blocks/footer-block.js:382
+msgid "The top page return link is visible."
+msgstr ""
+
+#: blocks/footer-block.js:389 blocks/header-block.js:638
+#: blocks/page-block.js:490 blocks/portfolio-block.js:506
+#: blocks/post-block.js:514 blocks/slideshow-block.js:582
+#: blocks/testimonial-block.js:506
+msgid "Layout"
+msgstr ""
+
+#: blocks/footer-block.js:396 blocks/header-block.js:660
+msgid "Top Padding"
+msgstr ""
+
+#: blocks/footer-block.js:404 blocks/header-block.js:668
+msgid "Bottom Padding"
+msgstr ""
+
+#: blocks/footer-block.js:412 blocks/header-block.js:676
+msgid "Left Padding"
+msgstr ""
+
+#: blocks/footer-block.js:420 blocks/header-block.js:684
+msgid "Right Padding"
+msgstr ""
+
+#: blocks/footer-block.js:430 blocks/header-block.js:694
+#: blocks/page-block.js:514 blocks/portfolio-block.js:529
+#: blocks/post-block.js:538 blocks/profile-block.js:388
+#: blocks/slideshow-block.js:592 blocks/testimonial-block.js:565
+msgid "Colors"
+msgstr ""
+
+#: blocks/footer-block.js:434
+msgid "Footer Background"
+msgstr ""
+
+#: blocks/footer-block.js:440
+msgid "Copyright Color"
+msgstr ""
+
+#: blocks/footer-block.js:446
+msgid "Return Link Arrow Color"
+msgstr ""
+
+#: blocks/footer-block.js:452
+msgid "Return Link Background"
+msgstr ""
+
+#: blocks/footer-block.js:458 blocks/header-block.js:716
+msgid "Menu Link Color"
+msgstr ""
+
+#: blocks/footer-block.js:464 blocks/header-block.js:722
+msgid "Menu Hover Color"
+msgstr ""
+
+#: blocks/header-block.js:40
+msgid "Dark Gray"
+msgstr ""
+
+#: blocks/header-block.js:43
+msgid "Light"
+msgstr ""
+
+#: blocks/header-block.js:44
+msgid "Normal"
+msgstr ""
+
+#: blocks/header-block.js:45
+msgid "Bold"
+msgstr ""
+
+#: blocks/header-block.js:48
+msgid "Relative"
+msgstr ""
+
+#: blocks/header-block.js:49
+msgid "Fixed"
+msgstr ""
+
+#: blocks/header-block.js:50
+msgid "Absolute"
+msgstr ""
+
+#: blocks/header-block.js:123
+msgid "Header"
+msgstr ""
+
+#: blocks/header-block.js:124
+msgid "Display a custom site header."
+msgstr ""
+
+#: blocks/header-block.js:425
+msgid "Remove Logo"
+msgstr ""
+
+#: blocks/header-block.js:429
+msgid "Change Logo"
+msgstr ""
+
+#: blocks/header-block.js:432
+msgid "Add Logo"
+msgstr ""
+
+#: blocks/header-block.js:469
+msgid "Site Identity"
+msgstr ""
+
+#: blocks/header-block.js:479
+msgid "Logo Size"
+msgstr ""
+
+#: blocks/header-block.js:487
+msgid "Display Site Title"
+msgstr ""
+
+#: blocks/header-block.js:489
+msgid "Toggle display of site title."
+msgstr ""
+
+#: blocks/header-block.js:494
+msgid "Site Title"
+msgstr ""
+
+#: blocks/header-block.js:502
+msgid "Site Title Font"
+msgstr ""
+
+#: blocks/header-block.js:510
+msgid "Site Title Weight"
+msgstr ""
+
+#: blocks/header-block.js:518
+msgid "Site Title Font Size"
+msgstr ""
+
+#: blocks/header-block.js:519
+msgid "The pixel size for the site title."
+msgstr ""
+
+#: blocks/header-block.js:529
+msgid "Site Title Letter Spacing"
+msgstr ""
+
+#: blocks/header-block.js:538
+msgid "Display Site Description"
+msgstr ""
+
+#: blocks/header-block.js:540
+msgid "Toggle display of site description."
+msgstr ""
+
+#: blocks/header-block.js:545
+msgid "Site Description"
+msgstr ""
+
+#: blocks/header-block.js:553
+msgid "Site Description Font"
+msgstr ""
+
+#: blocks/header-block.js:563 classes/class-obb-header.php:383
+msgid "Primary Navigation"
+msgstr ""
+
+#: blocks/header-block.js:566
+msgid "Primary Menu"
+msgstr ""
+
+#: blocks/header-block.js:573
+msgid "Primary Menu Font"
+msgstr ""
+
+#: blocks/header-block.js:579
+msgid "Primary Menu Font Size"
+msgstr ""
+
+#: blocks/header-block.js:580 blocks/header-block.js:618
+msgid "The pixel font size for menus."
+msgstr ""
+
+#: blocks/header-block.js:588
+msgid "Primary Submenu Font Size"
+msgstr ""
+
+#: blocks/header-block.js:589 blocks/header-block.js:627
+msgid "The pixel font size for submenus."
+msgstr ""
+
+#: blocks/header-block.js:600 classes/class-obb-header.php:341
+msgid "Secondary Navigation"
+msgstr ""
+
+#: blocks/header-block.js:604
+msgid "Secondary Menu"
+msgstr ""
+
+#: blocks/header-block.js:611
+msgid "Secondary Menu Font"
+msgstr ""
+
+#: blocks/header-block.js:617
+msgid "Secondary Menu Font Size"
+msgstr ""
+
+#: blocks/header-block.js:626
+msgid "Secondary Submenu Menu Size"
+msgstr ""
+
+#: blocks/header-block.js:641
+msgid "Header Position"
+msgstr ""
+
+#: blocks/header-block.js:647
+msgid "Header Content Width"
+msgstr ""
+
+#: blocks/header-block.js:649
+msgid "Maximum width of header content."
+msgstr ""
+
+#: blocks/header-block.js:698
+msgid "Header Background"
+msgstr ""
+
+#: blocks/header-block.js:704
+msgid "Site Title Color"
+msgstr ""
+
+#: blocks/header-block.js:710
+msgid "Site Description Color"
+msgstr ""
+
+#: blocks/header-block.js:728
+msgid "Submenu Link Color"
+msgstr ""
+
+#: blocks/header-block.js:734
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: blocks/header-block.js:740
+msgid "Submenu Background"
+msgstr ""
+
+#: blocks/page-block.js:37 blocks/portfolio-block.js:42 blocks/post-block.js:36
+#: blocks/slideshow-block.js:55 blocks/testimonial-block.js:54
+msgid "Ascending"
+msgstr ""
+
+#: blocks/page-block.js:38 blocks/portfolio-block.js:43 blocks/post-block.js:37
+#: blocks/slideshow-block.js:56 blocks/testimonial-block.js:55
+msgid "Descending"
+msgstr ""
+
+#: blocks/page-block.js:41 blocks/portfolio-block.js:36 blocks/post-block.js:40
+#: blocks/profile-block.js:36 blocks/slideshow-block.js:49
+#: blocks/testimonial-block.js:49
+msgid "Minimal"
+msgstr ""
+
+#: blocks/page-block.js:42 blocks/portfolio-block.js:37 blocks/post-block.js:41
+#: blocks/profile-block.js:37 blocks/slideshow-block.js:50
+#: blocks/testimonial-block.js:50
+msgid "Modern"
+msgstr ""
+
+#: blocks/page-block.js:43 blocks/post-block.js:42 blocks/profile-block.js:38
+msgid "Angular"
+msgstr ""
+
+#: blocks/page-block.js:46 blocks/post-block.js:47 blocks/profile-block.js:43
+msgid "Horizontal"
+msgstr ""
+
+#: blocks/page-block.js:47 blocks/post-block.js:48 blocks/profile-block.js:44
+msgid "Vertical"
+msgstr ""
+
+#: blocks/page-block.js:50 blocks/portfolio-block.js:53 blocks/post-block.js:51
+msgid "Heading 1"
+msgstr ""
+
+#: blocks/page-block.js:51 blocks/portfolio-block.js:54 blocks/post-block.js:52
+msgid "Heading 2"
+msgstr ""
+
+#: blocks/page-block.js:52 blocks/portfolio-block.js:55 blocks/post-block.js:53
+msgid "Heading 3"
+msgstr ""
+
+#: blocks/page-block.js:53 blocks/portfolio-block.js:56 blocks/post-block.js:54
+msgid "Heading 4"
+msgstr ""
+
+#: blocks/page-block.js:54 blocks/portfolio-block.js:57 blocks/post-block.js:55
+msgid "Heading 5"
+msgstr ""
+
+#: blocks/page-block.js:55 blocks/portfolio-block.js:58 blocks/post-block.js:56
+msgid "Heading 6"
+msgstr ""
+
+#: blocks/page-block.js:155 blocks/page-block.js:368
+msgid "Pages"
+msgstr ""
+
+#: blocks/page-block.js:156 blocks/page-block.js:375
+msgid "Display a group of featured pages."
+msgstr ""
+
+#: blocks/page-block.js:389 blocks/page-block.js:409
+#: blocks/portfolio-block.js:392 blocks/portfolio-block.js:413
+#: blocks/post-block.js:402 blocks/post-block.js:423
+#: blocks/slideshow-block.js:466 blocks/slideshow-block.js:481
+#: blocks/testimonial-block.js:431 blocks/testimonial-block.js:450
+msgid "Done"
+msgstr ""
+
+#: blocks/page-block.js:425
+msgid "Page Style"
+msgstr ""
+
+#: blocks/page-block.js:431
+msgid "Page Heading"
+msgstr ""
+
+#: blocks/page-block.js:437
+msgid "Page Orientation"
+msgstr ""
+
+#: blocks/page-block.js:443
+msgid "Page Order"
+msgstr ""
+
+#: blocks/page-block.js:459 blocks/portfolio-block.js:464
+#: blocks/post-block.js:473 blocks/slideshow-block.js:546
+#: blocks/testimonial-block.js:526
+msgid "Display"
+msgstr ""
+
+#: blocks/page-block.js:462
+msgid "Page Image"
+msgstr ""
+
+#: blocks/page-block.js:467
+msgid "Page Title"
+msgstr ""
+
+#: blocks/page-block.js:472
+msgid "Page Excerpt"
+msgstr ""
+
+#: blocks/page-block.js:477
+msgid "Page Link"
+msgstr ""
+
+#: blocks/page-block.js:482 blocks/page-block.js:530
+msgid "Page Background"
+msgstr ""
+
+#: blocks/page-block.js:498 blocks/portfolio-block.js:514
+#: blocks/post-block.js:522
+msgid "Columns"
+msgstr ""
+
+#: blocks/page-block.js:506 blocks/portfolio-block.js:521
+#: blocks/post-block.js:530
+msgid "Gutter Width"
+msgstr ""
+
+#: blocks/page-block.js:518
+msgid "Page Title Color"
+msgstr ""
+
+#: blocks/page-block.js:524
+msgid "Page Text Color"
+msgstr ""
+
+#: blocks/page-block.js:536 blocks/post-block.js:560
+msgid "Button Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:38 blocks/post-block.js:44
+#: blocks/profile-block.js:40 blocks/slideshow-block.js:51
+#: blocks/testimonial-block.js:51
+msgid "Rounded"
+msgstr ""
+
+#: blocks/portfolio-block.js:39 blocks/post-block.js:43
+#: blocks/profile-block.js:39 blocks/slideshow-block.js:52
+msgid "Bordered"
+msgstr ""
+
+#: blocks/portfolio-block.js:46
+msgid "Centered"
+msgstr ""
+
+#: blocks/portfolio-block.js:47 blocks/slideshow-block.js:62
+#: blocks/testimonial-block.js:58
+msgid "Top"
+msgstr ""
+
+#: blocks/portfolio-block.js:48 blocks/slideshow-block.js:63
+#: blocks/testimonial-block.js:59
+msgid "Bottom"
+msgstr ""
+
+#: blocks/portfolio-block.js:49
+msgid "Below Image"
+msgstr ""
+
+#: blocks/portfolio-block.js:50
+msgid "Above Image"
+msgstr ""
+
+#: blocks/portfolio-block.js:103 blocks/portfolio-block.js:373
+msgid "Portfolio"
+msgstr ""
+
+#: blocks/portfolio-block.js:104
+msgid "Display a group of posts as a portfolio"
+msgstr ""
+
+#: blocks/portfolio-block.js:249 blocks/post-block.js:259
+#: blocks/slideshow-block.js:292 blocks/testimonial-block.js:254
+msgid "Choose Post Type"
+msgstr ""
+
+#: blocks/portfolio-block.js:265 blocks/post-block.js:275
+#: blocks/slideshow-block.js:304 blocks/testimonial-block.js:270
+msgid "Select a Post Type"
+msgstr ""
+
+#: blocks/portfolio-block.js:274 blocks/post-block.js:284
+#: blocks/slideshow-block.js:313 blocks/testimonial-block.js:279
+msgid "Choose a Taxonomy"
+msgstr ""
+
+#: blocks/portfolio-block.js:281 blocks/post-block.js:291
+#: blocks/slideshow-block.js:320 blocks/testimonial-block.js:286
+msgid "Select a Taxonomy"
+msgstr ""
+
+#: blocks/portfolio-block.js:291 blocks/post-block.js:301
+#: blocks/slideshow-block.js:330 blocks/testimonial-block.js:296
+msgid "Select a Category"
+msgstr ""
+
+#: blocks/portfolio-block.js:380
+msgid "Display a group of posts as a portfolio."
+msgstr ""
+
+#: blocks/portfolio-block.js:426
+msgid "Portfolio Settings"
+msgstr ""
+
+#: blocks/portfolio-block.js:429
+msgid "Portfolio Style"
+msgstr ""
+
+#: blocks/portfolio-block.js:435
+msgid "Portfolio Heading"
+msgstr ""
+
+#: blocks/portfolio-block.js:441 blocks/slideshow-block.js:585
+#: blocks/testimonial-block.js:509
+msgid "Content Position"
+msgstr ""
+
+#: blocks/portfolio-block.js:447
+msgid "Portfolio Order"
+msgstr ""
+
+#: blocks/portfolio-block.js:453 blocks/post-block.js:463
+msgid "Maximum Number Posts"
+msgstr ""
+
+#: blocks/portfolio-block.js:467
+msgid "Portfolio Title"
+msgstr ""
+
+#: blocks/portfolio-block.js:469
+msgid "The portfolio title is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:473
+msgid "Portfolio Excerpt"
+msgstr ""
+
+#: blocks/portfolio-block.js:475
+msgid "The portfolio excerpt is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:479
+msgid "Pinterest Button"
+msgstr ""
+
+#: blocks/portfolio-block.js:481
+msgid "The Pinterest Pin It button is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:485
+msgid "Portfolio Link"
+msgstr ""
+
+#: blocks/portfolio-block.js:487
+msgid "The portfolio image links to post."
+msgstr ""
+
+#: blocks/portfolio-block.js:491
+msgid "Show Content On Hover"
+msgstr ""
+
+#: blocks/portfolio-block.js:493
+msgid "Content is only visible on hover."
+msgstr ""
+
+#: blocks/portfolio-block.js:497
+msgid "Portfolio Pagination"
+msgstr ""
+
+#: blocks/portfolio-block.js:499
+msgid "The portfolio pagination is visible."
+msgstr ""
+
+#: blocks/portfolio-block.js:509 blocks/post-block.js:517
+msgid "Masonry Layout"
+msgstr ""
+
+#: blocks/portfolio-block.js:533
+msgid "Portfolio Title Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:539
+msgid "Portfolio Excerpt Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:545
+msgid "Pin Icon Color"
+msgstr ""
+
+#: blocks/portfolio-block.js:551
+msgid "Hover Background"
+msgstr ""
+
+#: blocks/portfolio-block.js:558
+msgid "Hover Background Opacity"
+msgstr ""
+
+#: blocks/post-block.js:113 blocks/post-block.js:383
+msgid "Posts"
+msgstr ""
+
+#: blocks/post-block.js:114 blocks/post-block.js:390
+msgid "Display a group of featured posts."
+msgstr ""
+
+#: blocks/post-block.js:439
+msgid "Post Style"
+msgstr ""
+
+#: blocks/post-block.js:445
+msgid "Post Heading"
+msgstr ""
+
+#: blocks/post-block.js:451
+msgid "Post Orientation"
+msgstr ""
+
+#: blocks/post-block.js:457
+msgid "Post Order"
+msgstr ""
+
+#: blocks/post-block.js:476
+msgid "Post Image"
+msgstr ""
+
+#: blocks/post-block.js:481
+msgid "Post Date"
+msgstr ""
+
+#: blocks/post-block.js:486
+msgid "Post Title"
+msgstr ""
+
+#: blocks/post-block.js:491
+msgid "Post Excerpt"
+msgstr ""
+
+#: blocks/post-block.js:496
+msgid "Post Link"
+msgstr ""
+
+#: blocks/post-block.js:501 blocks/post-block.js:554
+msgid "Post Background"
+msgstr ""
+
+#: blocks/post-block.js:506
+msgid "Post Pagination"
+msgstr ""
+
+#: blocks/post-block.js:542
+msgid "Post Title Color"
+msgstr ""
+
+#: blocks/post-block.js:548
+msgid "Post Text Color"
+msgstr ""
+
+#: blocks/profile-block.js:77
+msgid "Profile"
+msgstr ""
+
+#: blocks/profile-block.js:78
+msgid "A custom block for displaying personal profiles."
+msgstr ""
+
+#: blocks/profile-block.js:204
+msgid "Remove"
+msgstr ""
+
+#: blocks/profile-block.js:256
+msgid "Remove Image"
+msgstr ""
+
+#: blocks/profile-block.js:260
+msgid "Change Image"
+msgstr ""
+
+#: blocks/profile-block.js:263
+msgid "Add Image"
+msgstr ""
+
+#: blocks/profile-block.js:334
+msgid "Profile Image Size"
+msgstr ""
+
+#: blocks/profile-block.js:343
+msgid "Profile Style"
+msgstr ""
+
+#: blocks/profile-block.js:349
+msgid "Profile Orientation"
+msgstr ""
+
+#: blocks/profile-block.js:362
+msgid "Social Media Links"
+msgstr ""
+
+#: blocks/profile-block.js:366
+msgid "Add links to your social media profiles."
+msgstr ""
+
+#: blocks/profile-block.js:383
+msgid "Add Social Media Link"
+msgstr ""
+
+#: blocks/profile-block.js:392
+msgid "Profile Title Color"
+msgstr ""
+
+#: blocks/profile-block.js:398
+msgid "Profile Subtitle Color"
+msgstr ""
+
+#: blocks/profile-block.js:404
+msgid "Profile Text Color"
+msgstr ""
+
+#: blocks/profile-block.js:410
+msgid "Profile Background"
+msgstr ""
+
+#: blocks/profile-block.js:446
+msgid "Upload Image"
+msgstr ""
+
+#: blocks/profile-block.js:459
+msgid "Profile Name"
+msgstr ""
+
+#: blocks/profile-block.js:469
+msgid "Subtitle"
+msgstr ""
+
+#: blocks/profile-block.js:481
+msgid "Write a brief bio..."
+msgstr ""
+
+#: blocks/profile-block.js:538
+msgid "Profile Image"
+msgstr ""
+
+#: blocks/slideshow-block.js:35 blocks/testimonial-block.js:35
+msgid "2 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:36 blocks/testimonial-block.js:36
+msgid "4 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:37 blocks/testimonial-block.js:37
+msgid "6 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:38 blocks/testimonial-block.js:38
+msgid "8 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:39 blocks/testimonial-block.js:39
+msgid "10 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:40 blocks/testimonial-block.js:40
+msgid "20 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:41 blocks/testimonial-block.js:41
+msgid "30 Seconds"
+msgstr ""
+
+#: blocks/slideshow-block.js:42 blocks/testimonial-block.js:42
+msgid "Hold Frame"
+msgstr ""
+
+#: blocks/slideshow-block.js:45 blocks/testimonial-block.js:45
+msgid "Fade"
+msgstr ""
+
+#: blocks/slideshow-block.js:46 blocks/testimonial-block.js:46
+msgid "Slide"
+msgstr ""
+
+#: blocks/slideshow-block.js:59
+msgid "Center"
+msgstr ""
+
+#: blocks/slideshow-block.js:60 blocks/testimonial-block.js:60
+msgid "Left"
+msgstr ""
+
+#: blocks/slideshow-block.js:61 blocks/testimonial-block.js:61
+msgid "Right"
+msgstr ""
+
+#: blocks/slideshow-block.js:136 blocks/slideshow-block.js:447
+msgid "Content Slideshow"
+msgstr ""
+
+#: blocks/slideshow-block.js:137
+msgid "Display a slideshow of selected posts or pages"
+msgstr ""
+
+#: blocks/slideshow-block.js:334 blocks/testimonial-block.js:299
+msgid "Choose Pages"
+msgstr ""
+
+#: blocks/slideshow-block.js:454
+msgid "Display a slideshow of posts or pages"
+msgstr ""
+
+#: blocks/slideshow-block.js:497
+msgid "Transition Speed"
+msgstr ""
+
+#: blocks/slideshow-block.js:503
+msgid "Transition Style"
+msgstr ""
+
+#: blocks/slideshow-block.js:509
+msgid "Slideshow Style"
+msgstr ""
+
+#: blocks/slideshow-block.js:515
+msgid "Slideshow Post Order"
+msgstr ""
+
+#: blocks/slideshow-block.js:521
+msgid "Slideshow Height"
+msgstr ""
+
+#: blocks/slideshow-block.js:523
+msgid "Set a custom height in pixels for your slideshow."
+msgstr ""
+
+#: blocks/slideshow-block.js:530 blocks/testimonial-block.js:495
+msgid "Posts Per Slide"
+msgstr ""
+
+#: blocks/slideshow-block.js:538
+msgid "Smooth Height"
+msgstr ""
+
+#: blocks/slideshow-block.js:549
+msgid "Slide Title"
+msgstr ""
+
+#: blocks/slideshow-block.js:554
+msgid "Slide Excerpt"
+msgstr ""
+
+#: blocks/slideshow-block.js:559
+msgid "Slide Button"
+msgstr ""
+
+#: blocks/slideshow-block.js:564 blocks/slideshow-block.js:620
+msgid "Slide Content Background"
+msgstr ""
+
+#: blocks/slideshow-block.js:569 blocks/testimonial-block.js:554
+msgid "Slideshow Directional Arrows"
+msgstr ""
+
+#: blocks/slideshow-block.js:574 blocks/testimonial-block.js:559
+msgid "Slideshow Navigation"
+msgstr ""
+
+#: blocks/slideshow-block.js:596 blocks/testimonial-block.js:549
+#: blocks/testimonial-block.js:587
+msgid "Slideshow Background"
+msgstr ""
+
+#: blocks/slideshow-block.js:602
+msgid "Slide Title Color"
+msgstr ""
+
+#: blocks/slideshow-block.js:608
+msgid "Slide Excerpt Color"
+msgstr ""
+
+#: blocks/slideshow-block.js:614
+msgid "Slide Button Color"
+msgstr ""
+
+#: blocks/slideshow-block.js:626
+msgid "Slide Overlay Color"
+msgstr ""
+
+#: blocks/slideshow-block.js:633
+msgid "Slide Overlay Opacity"
+msgstr ""
+
+#: blocks/testimonial-block.js:101
+msgid "Testimonials"
+msgstr ""
+
+#: blocks/testimonial-block.js:102
+msgid "Display a testimonial of selected posts or pages"
+msgstr ""
+
+#: blocks/testimonial-block.js:305
+msgid "Choose Testimonials"
+msgstr ""
+
+#: blocks/testimonial-block.js:412
+msgid "Testimoinals"
+msgstr ""
+
+#: blocks/testimonial-block.js:419
+msgid "Display a slideshow of testimonials."
+msgstr ""
+
+#: blocks/testimonial-block.js:466
+msgid "Slideshow Transition Speed"
+msgstr ""
+
+#: blocks/testimonial-block.js:472
+msgid "Slideshow Transition Style"
+msgstr ""
+
+#: blocks/testimonial-block.js:478
+msgid "Testimonials Style"
+msgstr ""
+
+#: blocks/testimonial-block.js:484
+msgid "Testimonials Post Order"
+msgstr ""
+
+#: blocks/testimonial-block.js:490
+msgid "Randomize Order"
+msgstr ""
+
+#: blocks/testimonial-block.js:515
+msgid "Testimonial Image Size"
+msgstr ""
+
+#: blocks/testimonial-block.js:529
+msgid "Testimonial Author"
+msgstr ""
+
+#: blocks/testimonial-block.js:534
+msgid "Testimonial Excerpt"
+msgstr ""
+
+#: blocks/testimonial-block.js:539
+msgid "Testimonial Link"
+msgstr ""
+
+#: blocks/testimonial-block.js:544 blocks/testimonial-block.js:581
+msgid "Testimonial Background"
+msgstr ""
+
+#: blocks/testimonial-block.js:569
+msgid "Testimonial Excerpt Color"
+msgstr ""
+
+#: blocks/testimonial-block.js:575
+msgid "Testimonial Author Color"
+msgstr ""
+
+#: blocks/widget-area-block.js:52 blocks/widget-area-block.js:101
+msgid "Widget Area"
+msgstr ""
+
+#: blocks/widget-area-block.js:53
+msgid "Add a Widget Area anywhere in your page/post."
+msgstr ""
+
+#: blocks/widget-area-block.js:79
+msgid "Save"
+msgstr ""
+
+#: blocks/widget-area-block.js:80
+msgid ""
+"Enter a name for the Widget Area, then enter the Customizer to add Widgets."
+msgstr ""
+
+#: blocks/widget-area-block.js:83
+msgid "Update"
+msgstr ""
+
+#: blocks/widget-area-block.js:84
+msgid "Enter the Customizer to add Widgets to this area."
+msgstr ""
+
+#: blocks/widget-area-block.js:138
+msgid "Customizer View"
+msgstr ""
+
+#: classes/class-obb-footer.php:204
+msgid "Footer Navigation"
+msgstr ""
+
+#: classes/class-obb-header.php:389
+msgid "Toggle Mobile Menu"
+msgstr ""
+
+#: classes/class-obb-page.php:224 classes/class-obb-post.php:299
+#: classes/class-obb-slider.php:285
+msgid "Read More"
+msgstr ""
+
+#: classes/class-obb-page.php:229 classes/class-obb-post.php:304
+msgid "(Edit Post)"
+msgstr ""
+
+#: classes/class-obb-portfolio.php:310 classes/class-obb-post.php:327
+msgid "Previous Page"
+msgstr ""
+
+#: classes/class-obb-portfolio.php:311 classes/class-obb-post.php:328
+msgid "Next Page"
+msgstr ""
+
+#: classes/class-obb-widget-area.php:68
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:40
+#: includes/updater/obb-updater-admin.php:80
+#: includes/updater/obb-updater-admin.php:147
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:52
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:59
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:63
+msgid "Invalid license."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:68
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:72
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/updater/obb-updater-admin.php:76
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/updater/obb-updater-class.php:228
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/updater/obb-updater-class.php:236
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/updater/obb-updater-class.php:474
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/updater/obb-updater-class.php:474
+msgid "Error"
+msgstr ""
+
+#: organic-blocks-bundle.php:76 organic-blocks-bundle.php:77
+#: organic-blocks-bundle.php:179
+msgid "Organic Blocks"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Organic Blocks Bundle"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://organicthemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A collection of powerful blocks for the Gutenberg editor."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Organic Themes"
+msgstr ""

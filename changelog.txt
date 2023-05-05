@@ -1,0 +1,17 @@
+*** Rialto Changelog ***
+
+2023-05-02 - Version 1.0.2
+* Theme.json updates
+* Template updates
+* Style tweaks
+* General cleanup
+
+2023-04-21 - Version 1.0.1
+* Added header.php for PHP template fallback
+* Added footer.php for PHP template fallback
+* Fixed issue with Dokan vendor store display
+* Updated demo content
+* Style tweaks
+
+2023-04-13 - Version 1.0
+* Initial release

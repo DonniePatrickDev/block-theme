@@ -1,0 +1,289 @@
+.editor-styles-wrapper .obb-slide-img,
+.editor-styles-wrapper .organic-block p a,
+.editor-styles-wrapper .organic-block .obb-title a {
+	pointer-events: none;
+	cursor: default;
+}
+.obb-setup.components-placeholder {
+	align-items: center;
+	padding: 24px;
+	box-sizing: border-box;
+}
+.obb-setup p,
+.obb-setup h4,
+.obb-setup div,
+.obb-setup select {
+	font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif !important;
+}
+.obb-setup select {
+	height: auto !important;
+}
+.obb-setup select + span {
+	display: flex;
+}
+.obb-setup-header {
+	display: flex !important;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+.obb-setup h4.obb-setup-title {
+	margin: 0px;
+}
+.obb-setup p.obb-setup-description {
+	font-size: 1rem;
+	margin: 0px 0px 12px 0px;
+}
+.obb-setup .components-placeholder__fieldset {
+	/* display: flex; */
+	justify-content: center;
+	max-width: 360px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.obb-setup .components-placeholder__label {
+	align-self: center;
+	margin-bottom: 0px;
+}
+.obb-setup .components-base-control,
+.obb-setup label.components-base-control__label {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.obb-setup-icon {
+	margin: 0px auto 0px;
+}
+.obb-setup p.components-base-control__help {
+	margin-top: 0px;
+	margin-bottom: 18px;
+}
+.obb-dropdown {
+	display: block !important;
+	height: auto !important;
+	width: 100%;
+	text-align: center;
+	margin-top: 10px !important;
+}
+.obb-setup .obb-dropdown input[type="text"] {
+	margin-left: auto;
+	margin-right: auto;
+}
+.obb-dropdown option {
+	padding: 4px 8px;
+	margin: 4px 0px;
+}
+.obb-dropdown .components-input-control__suffix svg {
+	height: 100%;
+}
+.obb-multi-select select {
+	min-height: 140px !important;
+	overflow: auto !important;
+}
+.obb-multi-select .components-input-control__suffix {
+	display: none;
+}
+.obb-multi-select ::-webkit-scrollbar {
+	-webkit-overflow-scrolling: auto;
+	-webkit-appearance: none;
+	width: 7px;
+}
+.obb-multi-select ::-webkit-scrollbar-thumb {
+	border-radius: 4px;
+	background-color: rgba(0, 0, 0, .5);
+	box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
+.obb-select-list {
+	padding: 12px;
+	margin: 12px auto;
+	max-height: 240px;
+	max-width: 480px;
+	text-align: left;
+	overflow-x: hidden;
+	overflow-y: auto;
+	border: 1px solid #dddddd;
+	border-radius: 3px;
+}
+.obb-setup .obb-select-list .components-base-control {
+	text-align: left;
+}
+.obb-checkbox.components-base-control {
+	margin-bottom: 0px;
+}
+.obb-edit-menu {
+	display: block;
+	margin-top: -18px;
+	margin-bottom: 24px;
+}
+.obb-setup .obb-setup-form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 12px 0px 24px 0px;
+}
+.obb-setup .obb-setup-form .components-button {
+	margin-left: 6px;
+}
+.obb-setup .components-checkbox-control__input-container {
+	display: inline-block;
+}
+.edit-button-icon {
+	background: white;
+	border-top: 1px solid #b5bcc2;
+	border-right: 1px solid #b5bcc2;
+}
+.obb-media-upload-image {
+	display: block;
+	background: #f4f4f4;
+	text-align: center;
+	width: 100%;
+	margin-bottom: 6px;
+}
+.obb-media-upload-image img,
+.obb-media-upload-control img {
+	max-width: 100%;
+}
+.obb-media-upload-control .components-button {
+	margin-right: 6px;
+}
+.obb-media-upload-control.obb-media-empty {
+	background: #f4f4f4;
+	text-align: center;
+	padding: 24px;
+	box-sizing: border-box;
+	border: 1px dashed #cccccc;
+}
+.obb-media-upload-control.obb-media-empty .components-button {
+	margin: 0px auto;
+}
+.obb-layout-padding {
+	display: flex;
+	flex-wrap: wrap;
+}
+.obb-layout-padding .components-base-control {
+	width: 50%;
+}
+.obb-layout-padding .components-base-control:nth-child(odd) {
+	padding-right: 6px;
+}
+.obb-layout-padding .components-base-control:nth-child(even) {
+	padding-left: 6px;
+}
+.obb-repeater-field {
+	display: flex;
+	width: 100%;
+	margin-bottom: 18px;
+}
+.obb-repeater-field .obb-repeater-field-delete {
+	align-self: flex-end;
+	max-height: 30px;
+	min-width: 30px;
+	margin-left: 6px;
+	padding: 0px;
+}
+.obb-repeater-field .obb-repeater-field-delete .dashicon {
+	margin-left: auto;
+	margin-right: auto;
+}
+.obb-repeater-field .obb-repeater-field-url,
+.obb-repeater-field .obb-repeater-field-url .components-base-control__field {
+	width: 100%;
+	margin-bottom: 0px;
+}
+.obb-color-control .components-color-picker,
+.obb-color-control .components-color-picker .react-colorful,
+.obb-color-control .components-color-picker .react-colorful__hue,
+.obb-color-control .components-color-picker .react-colorful__alpha {
+	width: 100%;
+}
+.obb-color-control .component-color-indicator {
+	float: right;
+}
+.obb-color-control .components-color-picker__body {
+	padding: 16px 0px 12px;
+}
+.obb-color-control .components-color-picker__inputs-wrapper .components-base-control,
+.obb-color-control .components-color-picker__inputs-wrapper .components-base-control:last-child {
+	margin-bottom: 0px;
+}
+.obb-color-control .components-base-control__label {
+	display: block;
+	margin-bottom: 12px;
+}
+.obb-toolbar-button.has-icon .dashicon {
+	margin: 0px auto;
+}
+.components-button.add-row {
+	display: flex;
+}
+.components-button.add-row .dashicon {
+	margin-top: 2px;
+	margin-right: 4px;
+}
+.obb-secondary-panel.components-panel__body {
+	padding: 0px 16px;
+	border: 1px solid #e0e0e0;
+}
+.obb-secondary-panel.components-panel__body .components-base-control__label {
+	display: block;
+	margin-bottom: 6px;
+}
+.obb-secondary-panel.components-panel__body > .components-panel__body-title {
+	margin-left: -16px;
+	margin-right: -16px;
+}
+.obb-secondary-panel.components-panel__body.is-opened > .components-panel__body-title {
+	margin-top: 0px;
+}
+.obb-secondary-panel .components-panel__body-toggle.components-button:focus {
+	border: none;
+	outline: none;
+	box-shadow: none;
+}
+.obb-secondary-panel .components-color-picker__inputs-wrapper {
+	min-width: auto;
+}
+
+.obb-header.position-fixed,
+.obb-header.position-absolute {
+	position: absolute;
+	top: 0;
+	z-index: 99;
+}
+.post-type-wp_template_part .obb-header.position-fixed,
+.post-type-wp_template_part .obb-header.position-absolute {
+	position: relative;
+	z-index: 8;
+}
+.obb-header.position-absolute,
+header.site-header[data-position="position-absolute"] {
+	position: absolute;
+	top: 0; left: 0;
+	z-index: 9;
+}
+.obb-header.position-fixed,
+header.site-header[data-position="position-fixed"] {
+	width: 100%;
+	position: fixed;
+	top: 0; left: 0;
+	z-index: 9;
+}
+header.site-header[data-position="position-fixed"] .obb-header.position-fixed,
+header.site-header[data-position="position-absolute"] .obb-header.position-absolute {
+	position: relative;
+}
+
+.organic-block h1 a,
+.organic-block h2 a,
+.organic-block h3 a,
+.organic-block h4 a,
+.organic-block h5 a,
+.organic-block h6 a,
+.organic-block a.more-link,
+/* .organic-block .obb-menu a, */
+.organic-block .obb-featured-img,
+.organic-block .obb-portfolio-link {
+	cursor: default;
+	pointer-events: none;
+}

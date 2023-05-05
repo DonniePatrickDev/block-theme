@@ -1,0 +1,772 @@
+{
+	"version": 1,
+	"settings": {
+		"layout": {
+			"contentSize": "980px",
+			"wideSize": "1420px"
+		},
+		"custom": {
+			"spacing": {
+	   			"baseline": "24px"
+    		},
+			"typography": {
+				"line-height": {
+					"small": 1.2,
+					"medium": 1.4,
+					"normal": 1.65,
+					"large": 1.8
+				}
+			}
+		},
+		"spacing": {
+			"blockGap": true,
+			"padding": true,
+			"margin": true,
+			"units": [ "px", "em", "rem", "vh", "vw", "%" ]
+		},
+		"border": {
+			"color": true,
+			"radius": true,
+			"style": true,
+			"width": true
+		},
+		"color": {
+			"link": true,
+			"palette": [
+				{
+					"slug": "black",
+					"color": "#000000",
+					"name": "Black"
+				},
+				{
+					"slug": "white",
+					"color": "#ffffff",
+					"name": "White"
+				},
+				{
+					"slug": "dark-gray",
+					"color": "#333333",
+					"name": "Dark Gray"
+				},
+				{
+					"slug": "medium-gray",
+					"color": "#666666",
+					"name": "Medium Gray"
+				},
+				{
+					"slug": "light-gray",
+					"color": "#dddddd",
+					"name": "Light Gray"
+				},
+				{
+					"slug": "accent-primary",
+					"color": "#ff0000",
+					"name": "Primary Accent"
+				},
+				{
+					"slug": "accent-secondary",
+					"color": "#ff00cc",
+					"name": "Secondary Accent"
+				},
+				{
+					"slug": "bg-dark",
+					"color": "#495369",
+					"name": "Background Dark"
+				},
+				{
+					"slug": "bg-light",
+					"color": "#f4f4f4",
+					"name": "Background Light"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "deep-purple",
+					"gradient": "linear-gradient(135deg, rgb(6, 12, 59) 0%, rgb(96, 7, 140) 98%)",
+					"name": "Deep Purple"
+				},
+				{
+					"slug": "california-dusk",
+					"gradient": "linear-gradient(225deg, rgb(223, 212, 0), rgb(156, 0, 163) 100%)",
+					"name": "California Dusk"
+				},
+				{
+					"slug": "hot-pink",
+					"gradient": "linear-gradient(135deg, rgb(255, 0, 0) 0%, rgb(255, 0, 204) 100%)",
+					"name": "Hot Pink"
+				},
+				{
+					"slug": "tokyo-sunset",
+					"gradient": "linear-gradient(135deg, rgb(255, 0, 116), rgb(0, 40, 205) 100%)",
+					"name": "Tokyo Sunset"
+				},
+				{
+					"slug": "fire-blaze",
+					"gradient": "linear-gradient(135deg, rgb(244, 182, 0), rgb(200, 0, 0) 100%)",
+					"name": "Fire Blaze"
+				},
+				{
+					"slug": "lime-light",
+					"gradient": "linear-gradient(135deg, rgb(148, 246, 0), rgb(0, 107, 236) 100%)",
+					"name": "Lime Light"
+				}
+			]
+		},
+		"typography": {
+			"lineHeight": true,
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "Roboto, sans-serif",
+					"slug": "roboto",
+					"name": "Roboto"
+				},
+				{
+					"fontFamily": "Bebas Neue, sans-serif",
+					"slug": "bebas-neue",
+					"name": "Bebas Neue",
+					"fontFace": [
+						{
+							"fontFamily": "Bebas Neue",
+							"fontWeight": "400",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/BebasNeue-Regular.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Bitter, serif",
+					"slug": "bitter",
+					"name": "Bitter",
+					"fontFace": [
+						{
+							"fontFamily": "Bitter",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Bitter-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Bitter",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Bitter-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Cabin, sans-serif",
+					"slug": "cabin",
+					"name": "Cabin",
+					"fontFace": [
+						{
+							"fontFamily": "Cabin",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Cabin-VariableFont_wdth,wght.ttf" ]
+						},
+						{
+							"fontFamily": "Cabin",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Cabin-Italic-VariableFont_wdth,wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Cinzel, serif",
+					"slug": "cinzel",
+					"name": "Cinzel",
+					"fontFace": [
+						{
+							"fontFamily": "Cinzel",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Cinzel-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Helvetica Neue, Helvetica, Arial, sans-serif",
+					"slug": "helvetica-arial",
+					"name": "Helvetica"
+				},
+				{
+					"fontFamily": "Libre Franklin, sans-serif",
+					"slug": "libre-franklin",
+					"name": "Libre Franklin",
+					"fontFace": [
+						{
+							"fontFamily": "Libre Franklin",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/LibreFranklin-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Libre Franklin",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/LibreFranklin-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Lora, serif",
+					"slug": "lora",
+					"name": "Lora",
+					"fontFace": [
+						{
+							"fontFamily": "Lora",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Lora-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Lora",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Lora-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Montserrat, sans-serif",
+					"slug": "montserrat",
+					"name": "Montserrat",
+					"fontFace": [
+						{
+							"fontFamily": "Montserrat",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Montserrat-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Montserrat",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Montserrat-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Nunito, sans-serif",
+					"slug": "nunito",
+					"name": "Nunito",
+					"fontFace": [
+						{
+							"fontFamily": "Nunito",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Nunito-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Nunito",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Nunito-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Open Sans, sans-serif",
+					"slug": "open-sans",
+					"name": "Open Sans",
+					"fontFace": [
+						{
+							"fontFamily": "Open Sans",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/OpenSans-VariableFont_wdth,wght.ttf" ]
+						},
+						{
+							"fontFamily": "Open Sans",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Oswald, sans-serif",
+					"slug": "oswald",
+					"name": "Oswald",
+					"fontFace": [
+						{
+							"fontFamily": "Oswald",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Oswald-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Playfair Display, serif",
+					"slug": "playfair-display",
+					"name": "Playfair Display",
+					"fontFace": [
+						{
+							"fontFamily": "Playfair Display",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/PlayfairDisplay-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Playfair Display",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Quicksand, sans-serif",
+					"slug": "quicksand",
+					"name": "Quicksand",
+					"fontFace": [
+						{
+							"fontFamily": "Quicksand",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Quicksand-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Raleway, sans-serif",
+					"slug": "raleway",
+					"name": "Raleway",
+					"fontFace": [
+						{
+							"fontFamily": "Raleway",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Raleway-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Raleway",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Raleway-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "Rubik, sans-serif",
+					"slug": "rubik",
+					"name": "Rubik",
+					"fontFace": [
+						{
+							"fontFamily": "Rubik",
+							"fontWeight": "100 900",
+							"fontStyle": "normal",
+							"src": [ "file:./assets/fonts/Rubik-VariableFont_wght.ttf" ]
+						},
+						{
+							"fontFamily": "Rubik",
+							"fontWeight": "100 900",
+							"fontStyle": "italic",
+							"src": [ "file:./assets/fonts/Rubik-Italic-VariableFont_wght.ttf" ]
+						}
+					]
+				},
+				{
+					"fontFamily": "ui-monospace, Menlo, Monaco, \"Cascadia Mono\", \"Segoe UI Mono\", \"Roboto Mono\", \"Oxygen Mono\", \"Ubuntu Monospace\", \"Source Code Pro\", \"Fira Mono\", \"Droid Sans Mono\", \"Courier New\", monospace",
+					"slug": "monospace-fonts",
+					"name": "Monospace Fonts"
+				},
+				{
+					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+					"slug": "system-fonts",
+					"name": "System Fonts"
+				}
+			],
+			"fontSizes": [
+				{
+					"slug": "extra-small",
+					"size": "0.7rem",
+					"name": "Extra small"
+				},
+				{
+					"slug": "small",
+					"size": "0.8rem",
+					"name": "Small"
+				},
+				{
+					"slug": "normal",
+					"size": "1rem",
+					"name": "Normal"
+				},
+				{
+					"slug": "medium",
+					"size": "1.2rem",
+					"name": "Medium"
+				},
+				{
+					"slug": "medium-large",
+					"size": "1.4rem",
+					"name": "Medium Large"
+				},
+				{
+					"slug": "large",
+					"size": "1.6rem",
+					"name": "Large"
+				},
+				{
+					"slug": "extra-large",
+					"size": "1.8rem",
+					"name": "Extra large"
+				},
+				{
+					"slug": "huge",
+					"size": "2.8rem",
+					"name": "Huge"
+				},
+				{
+					"slug": "gigantic",
+					"size": "4.0rem",
+					"name": "Gigantic"
+				},
+				{
+					"slug": "humongous",
+					"size": "6.0rem",
+					"name": "Humongous"
+				}
+			]
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "var(--wp--preset--color--white)",
+			"text": "var(--wp--preset--color--medium-gray)"
+		},
+		"typography": {
+			"fontSize": "var(--wp--preset--font-size--normal)",
+			"fontFamily": "var(--wp--preset--font-family--montserrat)",
+			"lineHeight": "1.65"
+		},
+		"border": {
+      		"radius": "3px"
+		},
+		"spacing": {
+			"blockGap": "32px"
+		},
+		"elements": {
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--accent-primary)"
+				},
+				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--accent-primary)"
+					}
+				},
+				"typography": {
+					"textDecoration": "underline"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--huge)",
+					"fontWeight": "300",
+					"letterSpacing": "4px",
+					"lineHeight": "1",
+					"textTransform": "uppercase"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--extra-large)",
+					"fontWeight": "300",
+					"letterSpacing": "4px",
+					"lineHeight": "1.1",
+					"textTransform": "uppercase"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"fontWeight": "400",
+					"letterSpacing": "2px",
+					"lineHeight": "1.1"
+				}
+			},
+			"h4": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium-large)",
+					"fontWeight": "400",
+					"lineHeight": "1.1"
+				}
+			},
+			"h5": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)",
+					"fontWeight": "600",
+					"lineHeight": "1.1"
+				}
+			},
+			"h6": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--normal)",
+					"fontWeight": "600",
+					"letterSpacing": "2px",
+					"lineHeight": "1.1",
+					"textTransform": "uppercase"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--nunito)"
+				},
+				"color": {
+					"text": "var(--wp--preset--color--black)"
+				}
+			},
+			"button": {
+				"color": {
+					"text": "var(--wp--preset--color--white)",
+					"background": "var(--wp--preset--color--accent-primary)",
+					"gradient": "var(--wp--preset--gradient--hot-pink)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--nunito)",
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"fontWeight": "600",
+					"letterSpacing": "1px",
+					"textTransform": "uppercase"
+				},
+				"spacing": {
+					"padding": {
+						"top": "8px",
+						"bottom": "8px",
+						"left": "24px",
+						"right": "24px"
+					}
+				},
+				"border": {
+					"radius": "3px"
+				},
+				"variations": {
+					"outline": {
+						"spacing": {
+							"padding": {
+								"top": "8px",
+								"bottom": "8px",
+								"left": "24px",
+								"right": "24px"
+							}
+						}
+					}
+				}
+			},
+			"caption": {
+				"color": {
+					"text": "var(--wp--preset--color--medium-gray)"
+				}
+			}
+		},
+		"blocks": {
+			"core/post-title": {
+				"color": {
+					"text": "var(--wp--preset--color--black)"
+				},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)"
+				}
+			},
+			"core/query-title": {
+				"color": {
+					"text": "var(--wp--preset--color--black)"
+				},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium-large)"
+				}
+			},
+			"core/post-excerpt": {
+				"spacing": {
+          			"margin": {
+						"top": 0
+					}
+        		}
+			},
+			"core/quote": {
+				"color": {
+					"text": "var(--wp--preset--color--black)"
+				},
+				"spacing": {
+          			"padding": "0 18px"
+        		},
+				"border": {
+          			"color": "var(--wp--preset--color--light-gray)",
+					"width": "2px"
+        		},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium-large)",
+					"fontFamily": "var(--wp--preset--font-family--quicksand)",
+					"fontStyle": "normal",
+					"fontWeight": "800",
+					"lineHeight": "1.4"
+				}
+			},
+			"core/pullquote": {
+				"color": {
+					"text": "var(--wp--preset--color--black)"
+				},
+				"spacing": {
+					"padding": "32px 0"
+        		},
+				"border": {
+          			"color": "var(--wp--preset--color--light-gray)"
+        		},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"fontFamily": "var(--wp--preset--font-family--quicksand)",
+					"fontStyle": "italic",
+					"fontWeight": "600",
+					"lineHeight": "1.4"
+				}
+			},
+			"core/code": {
+				"color": {
+					"text": "var(--wp--preset--color--dark-gray)",
+					"background": "var(--wp--preset--color--bg-light)"
+				},
+				"border": {
+         			"radius": "3px"
+        		},
+				"spacing": {
+          			"padding": "12px"
+        		},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--monospace-fonts)",
+					"lineHeight": "1.4"
+				}
+			},
+			"core/file": {
+				"border": {
+					"color": "var(--wp--preset--color--light-gray)"
+        		},
+				"spacing": {
+          			"padding": "18px 0"
+        		}
+			},
+			"core/preformatted": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--monospace-fonts)",
+					"lineHeight": "1.4"
+				}
+			},
+			"core/post-date": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
+			"core/post-terms": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--extra-small)"
+				}
+			},
+			"core/post-author": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
+			"core/button": {
+				"color": {
+					"text": "var(--wp--preset--color--white)",
+					"background": "var(--wp--preset--color--accent-primary)",
+					"gradient": "var(--wp--preset--gradient--hot-pink)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--nunito)",
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"fontWeight": "600",
+					"letterSpacing": "1px",
+					"textTransform": "uppercase"
+				},
+				"spacing": {
+					"padding": {
+						"top": "8px",
+						"bottom": "8px",
+						"left": "24px",
+						"right": "24px"
+					}
+				},
+				"border": {
+					"radius": "3px"
+				},
+				"variations": {
+					"outline": {
+						"spacing": {
+							"padding": {
+								"top": "8px",
+								"bottom": "8px",
+								"left": "24px",
+								"right": "24px"
+							}
+						}
+					}
+				}
+			},
+			"core/latest-posts": {
+				"spacing": {
+					"padding": {
+						"left": "0px"
+					}
+				}
+			}
+		}
+	},
+	"templateParts": [
+		{
+			"name": "header",
+			"area": "header"
+		},
+		{
+			"name": "footer",
+			"area": "footer"
+		},
+		{
+			"name": "footer-links",
+			"area": "footer"
+		},
+		{
+			"name": "banner",
+			"area": "general"
+		},
+		{
+			"name": "main",
+			"area": "general"
+		}
+	],
+	"customTemplates": [
+		{
+			"name": "template-blank",
+			"title": "Blank Canvas",
+			"postTypes": [ "page", "post" ]
+		},
+		{
+			"name": "template-no-title",
+			"title": "No Title",
+			"postTypes": [ "page", "post" ]
+		},
+		{
+			"name": "template-sidebar",
+			"title": "Sidebar",
+			"postTypes": [ "page", "post" ]
+		},
+		{
+			"name": "template-featured-img",
+			"title": "Featured Image",
+			"postTypes": [ "page" ]
+		},
+		{
+			"name": "archive-product",
+			"title": "Product Archive",
+			"postTypes": [ "product" ]
+		},
+		{
+			"name": "single-product",
+			"title": "Product Single",
+			"postTypes": [ "product" ]
+		}
+	]
+}

@@ -1,0 +1,60 @@
+/************************************************
+Gutenberg Editor
+************************************************/
+
+/* Body */
+
+.site-header,
+.site-main {
+	margin-top: 0px !important;
+}
+.header-wrapper.position-fixed,
+.header-wrapper.position-absolute {
+	position: relative !important;
+}
+.site-logo-wrapper > .site-logo-alt.position-absolute {
+	position: relative;
+	background-color: #dddddd;
+	opacity: 1 !important;
+}
+.wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation__container .has-child .wp-block-navigation__submenu-container {
+	min-width: 240px !important;
+}
+div[data-type="obb/hero-block"] {
+	margin-top: 0px;
+}
+.is-content-justification-center {
+	justify-content: center;
+}
+.wp-block-query li {
+	display: table;
+}
+
+/* Editor Alignment Fix */
+
+.is-layout-constrained > .wp-block.alignleft {
+	margin-left: calc((100% - var(--wp--style--global--content-size)) / 2) !important;
+}
+.is-layout-constrained > .wp-block.alignright {
+	margin-right: calc((100% - var(--wp--style--global--content-size)) / 2) !important;
+}
+.wp-block figure.alignleft {
+	margin-right: 24px;
+}
+.wp-block figure.alignright {
+	margin-left: 24px;
+}
+
+/* Form Elements */
+
+input[type="checkbox"], input[type="radio"] {
+	margin-bottom: 0;
+}
+
+/* WooCommerce */
+
+ul.woocommerce-search-list__list, ul.woocommerce-search-list__list li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
